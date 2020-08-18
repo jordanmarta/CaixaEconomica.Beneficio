@@ -1,0 +1,9 @@
+E:\Jordan\_dev\AspNetCore3-Udemy\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\bin\Debug\netstandard2.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.deps.json
+E:\Jordan\_dev\AspNetCore3-Udemy\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\bin\Debug\netstandard2.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.dll
+E:\Jordan\_dev\AspNetCore3-Udemy\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\bin\Debug\netstandard2.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.pdb
+E:\Jordan\_dev\AspNetCore3-Udemy\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\netstandard2.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.csprojAssemblyReference.cache
+E:\Jordan\_dev\AspNetCore3-Udemy\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\netstandard2.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.AssemblyInfoInputs.cache
+E:\Jordan\_dev\AspNetCore3-Udemy\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\netstandard2.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.AssemblyInfo.cs
+E:\Jordan\_dev\AspNetCore3-Udemy\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\netstandard2.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
+E:\Jordan\_dev\AspNetCore3-Udemy\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\netstandard2.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.dll
+E:\Jordan\_dev\AspNetCore3-Udemy\CaixaEconomica.Beneficio\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\obj\Debug\netstandard2.0\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.pdb

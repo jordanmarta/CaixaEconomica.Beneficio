@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sZKO+hyRwbeI1c09diD+Wkqx5tugpZFrJ0NtXvOthbvJgTBBqRCUghL20Ju3L8lIsnPvVpDIrRjyzsG9wFVN1g==",
+  "success": true,
+  "projectFilePath": "E:\\Jordan\\_dev\\AspNetCore3-Udemy\\CaixaEconomica.Beneficio\\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc\\CaixaEconomica.Beneficio.Infra.CrossCutting.Ioc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jordan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jordan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

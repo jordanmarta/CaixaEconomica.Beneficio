@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zdd5SLvbhZsP4HUjCT5CAvh88WFDqacku/CgWQPfNQ62bWApg88vZbJ4uZxx4J9YbDeJRmy3hufSxtvxkMtuwg==",
+  "success": true,
+  "projectFilePath": "E:\\Jordan\\_dev\\AspNetCore3-Udemy\\CaixaEconomica.Beneficio\\CaixaEconomica.Beneficio.Dominio\\CaixaEconomica.Beneficio.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jordan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jordan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
